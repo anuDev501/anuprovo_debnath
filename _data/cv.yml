@@ -22,21 +22,21 @@ cv:
   sections:
     Education:
       - institution: Indian Institute of Science Education and Research, Kolkata
-        location: Kolkata, India
+        location: Kalyani<br> West Bengal, India
         area: Physics
         studyType: BS–MS
-        start_date: 08.2023
+        start_date: 2023
         end_date: Present
         score: "CGPA: 8.82"
         courses: >
-          Advanced Quantum Physics
-          Statistical Mechanics
-          Computational Physics
-          Stochastic Processes
-          Mathematical Methods in Physics
-          Intermediate Electricity and Magnetism
-          Optics (Theory and Lab)
-          Electronics (Theory and Lab)
+          Advanced Quantum Physics,
+          Statistical Mechanics,
+          Computational Physics,
+          Stochastic Processes,
+          Mathematical Methods in Physics,
+          Intermediate Electricity and Magnetism,
+          Optics (Theory and Lab),
+          Electronics (Theory and Lab),
           Nuclear Physics Laboratory
         highlights:
           - Strong foundation in theoretical and computational physics
@@ -46,8 +46,9 @@ cv:
         location: >
           Madhyamgram, <br>
           West Bengal, India
-        studyType: ISC (Class XII)
-        date: 2023
+        studyType: ISC (Class XI-XII)
+        start_date: 2021
+        end_date: 2023
         score: "95.75%"
 
       - institution: St. Jude’s High School
@@ -55,6 +56,8 @@ cv:
           Madhyamgram, <br>
           West Bengal, India
         studyType: ICSE (Class X)
+        start_date: 2020
+        end_date: 2021
         score: "94.4%"
 
     Experience:
@@ -63,8 +66,7 @@ cv:
         location: Ahmedabad, India
         start_date: 05.2025
         end_date: Present
-        summary: >
-          Development of a Python-based framework to extract electron temperature (Te) and electron density (ne) from LIBS plasmas using Boltzmann plots, Saha–Boltzmann analysis, and Stark broadening with NIST spectral data.
+        summary: Development of a Python-based framework to extract electron temperature (Te) and electron density (ne) from LIBS plasmas using Boltzmann plots, Saha–Boltzmann analysis, and Stark broadening with NIST spectral data.
         highlights:
           - Calibration-free LIBS diagnostics
           - Machine learning integration for improved line analysis
