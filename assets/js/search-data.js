@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/anuprovo_debnath/cv/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/anuprovo_debnath/people/";
-          },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
