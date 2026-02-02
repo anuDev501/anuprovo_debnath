@@ -16,14 +16,10 @@ The full project report is available below.
 
 ## 📄 Project Report
 
-<div style="width: 80%; height: 800px;">  
-  <iframe 
-    src="/assets/pdf/Anuprovo_Debnath_LIBS_Summer_Internship_Report.pdf" 
-    width="100%" 
-    height="100%" 
-    style="border: none;" 
-    loading="lazy">
-  </iframe>  
+<div class="embed-responsive embed-responsive-16by9">  
+  <iframe src="/assets/pdf/Anuprovo_Debnath_LIBS_Summer_Internship_Report.pdf" class="embed-responsive-item" 
+  style="height: 900px;"
+  loading="lazy"></iframe>  
 </div>
 
 ---
