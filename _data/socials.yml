@@ -3,10 +3,7 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /cv/ # path to your CV PDF file
 email: ad23ms110@iiserkol.ac.in # your email address
-- name: LinkedIn  
-  link: https://www.linkedin.com/in/anuprovo-debnath-7958672a9/ 
-  icon: fa-brands fa-linkedin  
-  enabled: true
+linkedin: anuprovo-debnath-7958672a9
 # inspirehep_id: 1010907 # Inspire HEP author ID
 # rss_icon: true # comment this line to hide the RSS icon
 # scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
@@ -14,5 +11,5 @@ email: ad23ms110@iiserkol.ac.in # your email address
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
 #   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-#   title: Custom Social
-#   url: https://www.alberteinstein.com/
+#   title: LinkedIn
+#   url: https://www.linkedin.com/in/anuprovo-debnath-7958672a9/
