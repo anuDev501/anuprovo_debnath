@@ -27,20 +27,12 @@ The full project report is available below.
 
 ## Download
 
-If the PDF does not load properly, you can download it here:
-
-
-<style>
-.btncv::before,
-.btncv::after {
-  content: none !important;
-}
-</style>
-
+If the PDF does not load properly, you can download it here&nbsp;
 <a href="/assets/pdf/Anuprovo_Debnath_LIBS_Summer_Internship_Report.pdf"
    class="btncv"
    target="_blank"
-   rel="noopener noreferrer">
+   rel="noopener noreferrer"
+   style="vertical-align: middle;">
   <i class="fa-solid fa-file-pdf"
-     style="font-size:2rem; line-height:1; display:block;"></i>
+     style="font-size:2rem; line-height:1; display:inline-block;"></i>
 </a>
