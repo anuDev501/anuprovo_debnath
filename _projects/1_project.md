@@ -20,7 +20,7 @@ The full project report is available below.
   <iframe src="/assets/pdf/Anuprovo_Debnath_LIBS_Summer_Internship_Report.pdf"
           class="embed-responsive-item" 
           loading="lazy"
-          style="min-height: 600px; width: 100%;"></iframe>  
+          style="min-height: 900px; width: 100%;"></iframe>  
 </div>
 
 ---
@@ -29,4 +29,9 @@ The full project report is available below.
 
 If the PDF does not load properly, you can download it here:
 
-<a href="/assets/pdf/Anuprovo_Debnath_LIBS_Summer_Internship_Report.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+<a href="/assets/pdf/Anuprovo_Debnath_LIBS_Summer_Internship_Report.pdf"   
+   class="btncv"   
+   target="_blank"   
+   rel="noopener noreferrer">  
+  <i class="fa-solid fa-file-pdf"></i> PDF  
+</a>
