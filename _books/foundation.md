@@ -2,7 +2,7 @@
 layout: book-review
 title: Foundation
 author: Isaac Asimov
-cover: 
+cover: assets/img/book_covers/foundation.jpg
 olid: OL7825249M
 isbn: 9780553293357
 categories: science-fiction fiction space-opera

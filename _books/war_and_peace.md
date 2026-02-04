@@ -2,7 +2,7 @@
 layout: book-review
 title: War and Peace
 author: Leo Tolstoy
-cover: 
+cover: assets/img/book_covers/war_and_peace.jpg
 olid: OL13638431M
 isbn: 9780307266934
 categories: classics history russian-literature fiction
@@ -14,5 +14,5 @@ finished: 2025-01-01
 released: 1867
 stars: 
 goodreads_review: 
-status: Interested
+status: Queued
 ---

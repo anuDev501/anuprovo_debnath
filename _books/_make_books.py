@@ -56,6 +56,9 @@ def find_olid(book_data):
 updated = []
 
 for b in books:
+    #cover
+    b["cover"] = f"assets/img/book_covers/{os.path.splitext(b['filename'])[0]}.jpg"
+    
     isbn = b.get("isbn")
     if not isbn:
         print(f"⚠ No ISBN for {b['title']}, skipping lookup.")
@@ -90,6 +93,7 @@ for b in books:
     if ol_authors and b["author"] not in ol_authors:
         print(f"  ⚠ Author mismatch: local = {b['author']} | OL = {ol_authors}")
 
+
     # Update and collect
     updated.append(b.copy())
 
@@ -104,7 +108,7 @@ template = """---
 layout: book-review
 title: {title}
 author: {author}
-cover: 
+cover: {cover}
 olid: {olid}
 isbn: {isbn}
 categories: {cat}

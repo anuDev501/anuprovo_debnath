@@ -2,7 +2,7 @@
 layout: book-review
 title: The Death of Ivan Ilyich
 author: Leo Tolstoy
-cover: 
+cover: assets/img/book_covers/the_death_of_ivan_ilyich.jpg
 olid: OL24958301M
 isbn: 9780553210354
 categories: classics philosophy russian-literature fiction

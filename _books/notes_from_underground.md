@@ -2,7 +2,7 @@
 layout: book-review
 title: Notes from Underground
 author: Fyodor Dostoevsky
-cover: 
+cover: assets/img/book_covers/notes_from_underground.jpg
 olid: OL34818365M
 isbn: 9781453600627
 categories: classics philosophy russian-literature fiction existentialism

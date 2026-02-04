@@ -2,7 +2,7 @@
 layout: book-review
 title: Children of Dune
 author: Frank Herbert
-cover: 
+cover: assets/img/book_covers/children_of_dune.jpg
 olid: OL24935059M
 isbn: 9780425043837
 categories: science-fiction fiction space-opera fantasy

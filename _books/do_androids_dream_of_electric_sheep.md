@@ -2,7 +2,7 @@
 layout: book-review
 title: Do Androids Dream of Electric Sheep?
 author: Philip K. Dick
-cover: 
+cover: assets/img/book_covers/do_androids_dream_of_electric_sheep.jpg
 olid: OL22368998M
 isbn: 9780345404473
 categories: science-fiction fiction dystopian cyberpunk

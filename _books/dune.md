@@ -2,7 +2,7 @@
 layout: book-review
 title: Dune
 author: Frank Herbert
-cover: 
+cover: assets/img/book_covers/dune.jpg
 olid: OL59726263M
 isbn: 9780441172719
 categories: science-fiction fiction space-opera fantasy

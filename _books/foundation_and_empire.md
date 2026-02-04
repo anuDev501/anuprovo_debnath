@@ -2,7 +2,7 @@
 layout: book-review
 title: Foundation and Empire
 author: Isaac Asimov
-cover: 
+cover: assets/img/book_covers/foundation_and_empire.jpg
 olid: OL43003836M
 isbn: 9780380397013
 categories: science-fiction fiction space-opera

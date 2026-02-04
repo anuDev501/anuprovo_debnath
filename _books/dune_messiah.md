@@ -2,7 +2,7 @@
 layout: book-review
 title: Dune Messiah
 author: Frank Herbert
-cover: 
+cover: assets/img/book_covers/dune_messiah.jpg
 olid: OL18143783M
 isbn: 
 categories: science-fiction fiction space-opera fantasy

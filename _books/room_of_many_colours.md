@@ -2,7 +2,7 @@
 layout: book-review
 title: Room of Many Colours
 author: Ruskin Bond
-cover: 
+cover: assets/img/book_covers/room_of_many_colours.jpg
 olid: OL40067324M
 isbn: 9780143432371
 categories: short-stories fiction children-literature

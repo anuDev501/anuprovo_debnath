@@ -2,7 +2,7 @@
 layout: book-review
 title: Catch-22
 author: Joseph Heller
-cover: 
+cover: assets/img/book_covers/catch-22.jpg
 olid: OL23245221M
 isbn: 9780684833392
 categories: classics fiction war-fiction satire

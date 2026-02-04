@@ -2,7 +2,7 @@
 layout: book-review
 title: Fahrenheit 451
 author: Ray Bradbury
-cover: 
+cover: assets/img/book_covers/fahrenheit_451.jpg
 olid: OL26437043M
 isbn: 9781451673319
 categories: classics fiction dystopian science-fiction
@@ -14,5 +14,5 @@ finished: 2025-01-01
 released: 1953
 stars: 
 goodreads_review: 
-status: Interested
+status: Reading
 ---

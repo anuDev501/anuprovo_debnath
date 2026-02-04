@@ -2,7 +2,7 @@
 layout: book-review
 title: Foundation and Earth
 author: Isaac Asimov
-cover: 
+cover: assets/img/book_covers/foundation_and_earth.jpg
 olid: OL24207576M
 isbn: 9780553587579
 categories: science-fiction fiction space-opera

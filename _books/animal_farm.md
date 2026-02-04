@@ -2,7 +2,7 @@
 layout: book-review
 title: Animal Farm
 author: George Orwell
-cover: 
+cover: assets/img/book_covers/animal_farm.jpg
 olid: OL25740891M
 isbn: 9780143416319
 categories: classics fiction dystopian satire allegory

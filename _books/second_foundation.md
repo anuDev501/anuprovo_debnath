@@ -2,7 +2,7 @@
 layout: book-review
 title: Second Foundation
 author: Isaac Asimov
-cover: 
+cover: assets/img/book_covers/second_foundation.jpg
 olid: OL16794963M
 isbn: 9780553293364
 categories: science-fiction fiction space-opera

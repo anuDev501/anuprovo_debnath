@@ -2,7 +2,7 @@
 layout: book-review
 title: Foundation's Edge
 author: Isaac Asimov
-cover: 
+cover: assets/img/book_covers/foundations_edge.jpg
 olid: OL18550463M
 isbn: 9780553293388
 categories: science-fiction fiction space-opera

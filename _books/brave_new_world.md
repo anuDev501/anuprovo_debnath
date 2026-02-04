@@ -2,7 +2,7 @@
 layout: book-review
 title: Brave New World
 author: Aldous Huxley
-cover: 
+cover: assets/img/book_covers/brave_new_world.jpg
 olid: OL40234251M
 isbn: 9780060850524
 categories: classics fiction dystopian science-fiction
@@ -14,5 +14,5 @@ finished: 2025-01-01
 released: 1932
 stars: 
 goodreads_review: 
-status: Interested
+status: Queued
 ---

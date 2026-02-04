@@ -2,7 +2,7 @@
 layout: book-review
 title: Crime and Punishment
 author: Fyodor Dostoevsky
-cover: 
+cover: assets/img/book_covers/crime_and_punishment.jpg
 olid: OL49056597M
 isbn: 9780679734505
 categories: classics philosophy russian-literature fiction psychological-fiction

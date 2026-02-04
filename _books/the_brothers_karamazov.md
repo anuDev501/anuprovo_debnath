@@ -2,7 +2,7 @@
 layout: book-review
 title: The Brothers Karamazov
 author: Fyodor Dostoevsky
-cover: 
+cover: assets/img/book_covers/the_brothers_karamazov.jpg
 olid: OL30521039M
 isbn: 9780374528379
 categories: classics philosophy russian-literature fiction
