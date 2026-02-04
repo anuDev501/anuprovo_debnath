@@ -8,9 +8,9 @@ isbn: 9780441172719
 categories: science-fiction fiction space-opera fantasy
 tags: 
 buy_link: 
-date: 
-started: 
-finished: 
+date: 2024-08-23
+started: 2024-08-23
+finished: 2024-09-07
 released: 1965
 stars: 
 goodreads_review: 
