@@ -21,22 +21,33 @@ layout: page
         {% endif %}
       </h1>
       
+      {% assign sorted_items = author_group.items | sort: "released" %}
+      
       <ul>
-        {% for item in author_group.items reversed %}
+        {% for item in sorted_items %}
           <figure class="cover">
             {% if item.cover %}
-              <img alt="{{ item.title }} cover" src="{{ item.cover | prepend: page.covers | relative_url }}" style="height:300px">
+              <img
+                alt="{{ item.title }} cover"
+                src="{{ item.cover | prepend: page.covers | relative_url }}"
+                style="height:300px">
             {% elsif item.olid %}
-              <img alt="{{ item.title }} cover" src="https://covers.openlibrary.org/b/olid/{{ item.olid }}-L.jpg?default=false" style="height:300px">
+              <img
+                alt="{{ item.title }} cover"
+                src="https://covers.openlibrary.org/b/olid/{{ item.olid }}-L.jpg?default=false"
+                style="height:300px">
             {% elsif item.isbn %}
-              <img alt="{{ item.title }} cover" src="https://covers.openlibrary.org/b/isbn/{{ item.isbn }}-L.jpg?default=false" style="height:300px">
+              <img
+                alt="{{ item.title }} cover"
+                src="https://covers.openlibrary.org/b/isbn/{{ item.isbn }}-L.jpg?default=false"
+                style="height:300px">
             {% endif %}
             
             {% if item.status %}
               {% assign statuses = 'abandoned,finished,interested,paused,queued,reading,reread' | split: ',' %}
               {% assign status = item.status | downcase | strip %}
               {% if statuses contains status %}
-                <figcaption class="{{ status | downcase }}">{{ status | upcase }}</figcaption>
+                <figcaption class="{{ status }}">{{ status | upcase }}</figcaption>
               {% else %}
                 <figcaption class="uncategorized">UNCATEGORIZED</figcaption>
               {% endif %}
