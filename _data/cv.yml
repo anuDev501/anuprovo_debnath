@@ -1,19 +1,28 @@
 cv:
   name: Anuprovo Debnath
-  label: Third-year Undergraduate (BS-MS), Physics
+  label: Third-year Undergraduate (BS–MS), Physics
   email: ad23ms110@iiserkol.ac.in
-  location: IISER Kolkata, West Bengal, India
+  location: |
+    IISER Kolkata
+    West Bengal, India
   image: ""
-  summary: Third-year undergraduate student at IISER Kolkata with strong interests in plasma physics, nuclear fusion, and magnetic confinement of fusion plasmas. Actively involved in computational physics, spectroscopy-based plasma diagnostics, simulations, and scientific coding.
+  summary: >
+    Third-year undergraduate student at IISER Kolkata with strong interests in plasma physics,
+    nuclear fusion, and magnetic confinement of fusion plasmas. Actively involved in computational
+    physics, spectroscopy-based plasma diagnostics, simulations, and scientific coding.
 
   social_networks:
     - network: GitHub
       username: ""
     - network: LinkedIn
-      username: ""
+      username: anuprovo-debnath-7958672a9
+    - network: Website
+      username: anuprovo-debnath.github.io
 
   address:
-    street: C-117, NSCB Hostel, IISER Kolkata
+    street: |
+      C-117, NSCB Hostel
+      IISER Kolkata
     city: Kalyani
     region: West Bengal
     postalCode: 741246
@@ -22,38 +31,35 @@ cv:
   sections:
     Education:
       - institution: Indian Institute of Science Education and Research, Kolkata
-        location: Kalyani<br> West Bengal, India
+        location: |
+          Kalyani
+          West Bengal, India
         area: Physics
-        studyType: BS-MS
+        studyType: BS–MS
         start_date: 2023
         end_date: Present
         score: "CGPA: 8.82"
         courses: >
-          Advanced Quantum Physics,
-          Statistical Mechanics,
-          Computational Physics,
-          Stochastic Processes,
-          Mathematical Methods in Physics,
-          Intermediate Electricity and Magnetism,
-          Optics (Theory and Lab),
-          Electronics (Theory and Lab),
-          Nuclear Physics Laboratory
+          Advanced Quantum Physics, Statistical Mechanics, Computational Physics,
+          Stochastic Processes, Mathematical Methods in Physics,
+          Intermediate Electricity and Magnetism, Optics (Theory and Lab),
+          Electronics (Theory and Lab), Nuclear Physics Laboratory
         highlights:
+          - Major in Physics; Minor in Mathematics and Computer Science
           - Strong foundation in theoretical and computational physics
-          - Emphasis on plasma physics and spectroscopy
 
       - institution: St. Jude’s High School
-        location: >
-          Madhyamgram, <br>
+        location: |
+          Madhyamgram
           West Bengal, India
-        studyType: ISC (Class XI-XII)
+        studyType: ISC (Class XII)
         start_date: 2021
         end_date: 2023
-        score: "95.75%"
+        score: "95.7%"
 
       - institution: St. Jude’s High School
-        location: >
-          Madhyamgram, <br>
+        location: |
+          Madhyamgram
           West Bengal, India
         studyType: ICSE (Class X)
         start_date: 2020
@@ -64,20 +70,26 @@ cv:
       - company: Physical Research Laboratory (PRL), Ahmedabad
         position: Research Intern
         location: Ahmedabad, India
-        start_date: 05.2025
+        start_date: 2025-05
         end_date: Present
-        summary: Development of a Python-based framework to extract electron temperature (Te) and electron density (ne) from LIBS plasmas using Boltzmann plots, Saha-Boltzmann analysis, and Stark broadening with NIST spectral data.
+        summary: >
+          Developed a Python-based framework for extracting electron temperature (Te)
+          and electron density (ne) from Laser-Induced Breakdown Spectroscopy (LIBS)
+          plasmas using Boltzmann plots, Saha–Boltzmann analysis, and Stark broadening
+          with NIST spectral data.
         highlights:
-          - Calibration-free LIBS diagnostics
-          - Machine learning integration for improved line analysis
+          - Calibration-free LIBS plasma diagnostics
           - LTE validation and self-absorption modeling
+          - Machine-learning-based spectral line analysis
 
       - company: IISER Kolkata
         position: Student Researcher
         location: Kolkata, India
-        start_date: 11.2025
+        start_date: 2025-02
         end_date: Present
-        summary: Simulation of relativistic accretion disks around black holes using classical and relativistic fluid dynamics frameworks.
+        summary: >
+          Simulating accretion disk dynamics around black holes in a relativistic
+          framework under the supervision of Dr. Sudip K. Garain.
         highlights:
           - Relativistic fluid dynamics
           - Astrophysical simulations
@@ -88,15 +100,25 @@ cv:
         location: IISER Kolkata
         start_date: 2025
         end_date: 2026
-        summary: Led technical and organizational initiatives including infrastructure projects and national-level events.
+        summary: >
+          Leading technical and organizational initiatives for the coding club,
+          including infrastructure projects and national-level events.
         highlights:
-          - Setting up Proxmox + Kubernetes hobbyist compute cluster
-          - Organized Qiskit Fall Fest 2025
+          - Hobbyist compute cluster using Proxmox and Kubernetes
+          - Organized IBM-sponsored Qiskit Fall Fest 2025
 
     Awards:
+      - title: Smart India Hackathon (SIH)
+        date: 2025
+        awarder: Government of India
+        summary: Team shortlisted for problem statement SIH25173.
+
+      - title: International Astronomy and Astrophysics Competition
+        date: 2024
+        awarder: IAAC
+        summary: Silver Honour recipient.
+
       - title: DST INSPIRE Scholarship
-        authors:
-          - Government of India
         date: 2023
         awarder: Department of Science and Technology, India
         summary: Awarded for ranking in the top 1% in the ISC examination.
@@ -104,12 +126,12 @@ cv:
       - title: National Entrance Screening Test (NEST)
         date: 2023
         awarder: NEST Authority
-        summary: All India Rank 48
+        summary: All India Rank 48.
 
-      - title: International Astronomy and Astrophysics Competition
-        date: 2024
-        awarder: IAAC
-        summary: Silver Honour recipient
+      - title: KVPY SA
+        date: 2021
+        awarder: IISc
+        summary: All India Rank 2104.
 
     Publications: []
 
@@ -119,15 +141,20 @@ cv:
         icon: fa-solid fa-code
         keywords: "Python, C, Java, Fortran"
 
-      - name: Scientific Tools
+      - name: Scientific Computing & Visualisation
         level: Advanced
         icon: fa-solid fa-chart-line
-        keywords: "LaTeX, Typst, gnuplot, Matplotlib, ORIGIN"
+        keywords: "gnuplot, Matplotlib, ORIGIN"
 
-      - name: Visualization & Web
+      - name: Web & Media
         level: Intermediate
         icon: fa-solid fa-cube
-        keywords: "Blender, HTML, CSS, JavaScript"
+        keywords: "HTML, CSS, JavaScript, Blender"
+
+      - name: Typesetting
+        level: Advanced
+        icon: fa-solid fa-pen-nib
+        keywords: "LaTeX, Typst"
 
     Languages:
       - name: English
@@ -140,28 +167,35 @@ cv:
     Interests:
       - name: Physics
         icon: fa-solid fa-atom
-        keywords: Plasma Physics, Nuclear Fusion, Magnetohydrodynamics, Optics and Spectroscopy, Astrophysics
+        keywords: >
+          Plasma Physics, Nuclear Fusion, Magnetohydrodynamics,
+          Optics and Spectroscopy, Astrophysics
 
     Certificates: []
 
     Projects:
       - name: Evaluating Plasma Parameters from a Typical LIBS Plasma
-        summary: Extraction of electron temperature and density from LIBS plasmas using spectroscopic techniques and NIST spectral data, with ongoing machine learning enhancements.
-        highlights:
-          - Boltzmann and Saha-Boltzmann analysis
-          - Stark broadening
-          - Machine learning framework
-        start_date: 2025
+        start_date: 2025-05
         end_date: Present
+        summary: >
+          Spectroscopic extraction of plasma parameters from LIBS plasmas using
+          Boltzmann plots, Saha–Boltzmann analysis, and Stark broadening, with
+          ongoing machine-learning enhancements.
+        highlights:
+          - Calibration-free LIBS
+          - LTE validation
+          - Machine learning framework
 
       - name: Hobbyist Compute Cluster (Slashdot)
-        summary: Building a Proxmox and Kubernetes-based compute cluster using refurbished PCs to allow students to experiment without impacting production systems.
+        start_date: 2025-11
+        end_date: Present
+        summary: >
+          Building a sandboxed compute cluster using refurbished PCs to enable
+          experimentation without affecting production systems.
         highlights:
           - Proxmox
           - Kubernetes
           - Linux systems
-        start_date: 2025
-        end_date: Present
 
     References:
       - name: Dr. Prashant Kumar
